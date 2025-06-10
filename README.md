@@ -1,5 +1,5 @@
 # Meta-Universal-Equality-Scale
-MUES (Meta‑Universal Equality Scale) is a psychological confrontation engine disguised as a self-diagnostic tool. It isn’t about comfort. It isn’t polite. It doesn’t flatter, entertain, or pacify.
+MUES (Meta‑Universal Equality Scale) is a psychological confrontation engine presenting as a self-diagnostic tool. It isn’t about comfort. It isn’t polite. It doesn’t flatter, entertain, or pacify.
 
 MUES is a system designed to strip away illusion, detect repeating emotional patterns, and expose the archetypal roots of avoidance. It assesses users based on how they answer — not what they wish to believe — using a symbolic mirror system that draws from shadow work, behavioral archetypes, and raw cognitive-emotional analysis.
 
