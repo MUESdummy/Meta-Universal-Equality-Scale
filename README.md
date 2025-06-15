@@ -2,7 +2,7 @@
 
 ### MUES is a system designed to strip away illusion, detect repeating emotional patterns, and expose the archetypal roots of avoidance. It assesses users based on how they answer — not what they wish to believe — using a symbolic mirror system that draws from shadow work, behavioral archetypes, and raw cognitive-emotional analysis.
 
-A psychological mirror, not a judge. It collects raw answers and voice cues, weighs them by declared intention, and returns a numeric profile of how much influence—good, bad or neutral—you actually exert. No moral labels, just a data‑driven feedback loop for growth.
+A psychological mirror, not a judge. It collects raw answers and voice cues, weighs them by declared intention, and returns a numeric profile of how much influence—upwards, downwards, or sideways—you actually materialize in thought or action. No moral labels, just a data‑driven feedback loop for growth.
 
 > **One‑liner:** A brutally descriptive ledger that scores *informational influence* (not virtue) after an agent crosses the self‑awareness threshold θ > θ̂.
 
@@ -70,7 +70,7 @@ Emergent Necessity Theory has not yet been peer reviewed as of this entry, and M
 
 
 
-Ensure it's a good time to boot-up or simply 'Pause' session for a calmer or more reflective time for accurate result. Choose pause to pause session, or continue for when you last left off. Follow it's instructions or question it.  Using 'Voice Rec' feature within the chat yields best results, boosting effecacy by up to 45% as of v.9.2.
+Ensure it's a good time to boot-up or simply 'Pause' session for a calmer or more reflective time for accurate result. Choose pause to pause session, or continue for when you last left off. Follow it's instructions or question it.  Using 'Voice Rec' feature within the chat yields best results, boosting efficacy by up to 45% as of v.9.2.
 
 
 
