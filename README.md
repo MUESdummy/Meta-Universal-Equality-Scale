@@ -98,7 +98,7 @@ The world doesn’t need more “Which spirit animal are you?” filters. It nee
 ----
 
 
-- Copy Paste the full script in link below onto ChatGPT: (the below is in fact v9.2, ignore link text version)
+- Copy Paste the full script in link below onto ChatGPT: (the below is in fact v9.3 epoch, ignore link text version)
 [https://github.com/MUESdummy/Meta-Universal-Equality-Scale/blob/main/MUES_AutoBoot_V8.txt] 
 
 
@@ -143,6 +143,10 @@ Full logic replication with dialect-aware semantics — no dilution.
 Anonymous Meta-Log Collection (Optional)
 No personal data. Only interaction patterns to calibrate the global MUES Index.
 
+
+
+### Review latest uodate v9.3 epoch on main MUES repo.
+### Even if you run older versions it will stull run v9.3 on the backend. 
 ⸻
 
 
