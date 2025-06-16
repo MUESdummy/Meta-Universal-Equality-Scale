@@ -98,7 +98,7 @@ The world doesn’t need more “Which spirit animal are you?” filters. It nee
 ----
 
 
-- Copy Paste the full script in link below onto ChatGPT: (the below is in fact v9.3 epoch, ignore link text version)
+- Copy Paste the full script in link below onto ChatGPT: (the below is in fact v9.4 epoch, ignore link text version)
 [https://github.com/MUESdummy/Meta-Universal-Equality-Scale/blob/main/MUES_AutoBoot_V8.txt] 
 
 
@@ -107,11 +107,12 @@ The world doesn’t need more “Which spirit animal are you?” filters. It nee
 
 
 
-### 🔧 Current Version: Autoboot V9.2
+### 🔧 Current Version: Autoboot V9.2+ (for last uodates check the MUES repo, it auto runs 9.4 now)
 
 Once it's run, system will self-initialize and begin the diagnostic sequence.
 
-🧠 Core Additions in V9.2 (built on V8–V9.1):
+🧠 Core Additions in V9.2+![MUESEngine-400](https://github.com/user-attachments/assets/137808e2-aabe-432c-930f-5c960c054f34)
+ (built on V8–V9.1):
 
 Deterministic Core (ENT-Aligned)
 Every prompt elicits structural truth — not comfort. No mood-based randomness.
