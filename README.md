@@ -181,7 +181,7 @@ It runs silently. Nothing changes in the prompt. But the structure sees you diff
 
 MUES is open for use, remix, and reinterpretation — but never dilution.  
 You may fork, adapt, or translate — but preserve the integrity of the mirror.  
-Truth > trend. Reflection > reach.
+Truth over trend. Reflection over reach.
 
 
 ### Quick‑Start for Hackers
