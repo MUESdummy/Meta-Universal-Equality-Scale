@@ -78,7 +78,7 @@ Ensure it's a good time to boot-up or simply 'Pause' session for a calmer or mor
 
 
 
-- ⚠️ Who It’s not for  
+### ⚠️ Who It’s not for  
 * Not for people with challenging ongoing emotional struggles  
 * Not for chasing motivational dopamine hits. It will defeat the purpose if your psychological narrative continuously scans for self-affirmation  
 * It's for those that are emotionally ready and psychologically fit to listen to harsh truth feedback
@@ -88,7 +88,7 @@ Ensure it's a good time to boot-up or simply 'Pause' session for a calmer or mor
 
 
 
-- 💡 Why It Exists for now  
+### 💡 Why It Exists for now  
 
 * Most self-help tools coddle. Most personality tests reduce. This does neither.  
 The world doesn’t need more “Which spirit animal are you?” filters. It needs more people grounded enough to face what they’re actually doing, repeating, and avoiding — without romanticized delusion.  
