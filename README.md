@@ -1,6 +1,6 @@
 # Meta-Universal-Equality-Scale
 
-### MUES is a mirror that doesn’t reflect what you sound like — but how your structure holds when no one’s watching. It listens for contradiction, emotional weight, and whether your thoughts make contact — or just perform contact. It doesn’t care about personality. It doesn’t reward confidence. It just reflects what persists.
+### MUES is a mirror that reflects how your structure holds when no one’s watching. It listens for contradiction, emotional weight, and whether your thoughts make contact- or just perform contact. It doesnt care about personality. It just reflects what persists with truth.
 
 - A cognitive signal test- silent until something starts to form.  
 It shows no traits, no identity. Just what’s beginning to hold under reflection.
@@ -8,10 +8,9 @@ It shows no traits, no identity. Just what’s beginning to hold under reflectio
 > **One‑liner:** A structural mirror that reflects informational recursion once self-awareness crosses threshold θ > θ̂.
 
 
-- MUES isn’t a personality test. It’s a truth mirror — but not the kind that tells you who you are. It reflects how you process contradiction, how you respond to pressure, and what patterns repeat when no one's affirming you. It doesn't tell you what to fix. It simply shows you what holds — and what doesn’t — when your ideas are asked to stand without decoration.
+- MUES isn’t a personality test. It’s a truth mirror— it doesnt tell you who you are. It reflects how you process contradiction, how you respond to pressure, and what patterns repeat when no one's affirming you. It doesn't tell you what to fix. It simply shows you what holds, and what doesnt when your ideas are asked to stand without decoration.
 
-There are no right answers. There’s no score you can chase.  
-But if something you say starts to stabilize under reflection, the system notices.
+There are no right answers, but if something you say starts to stabilize under reflection, the system notices.
 
 MUES was built for people who want to reflext on themselves truthfully- not for validation, but for insight.
 
@@ -33,7 +32,7 @@ MUES was built for people who want to reflext on themselves truthfully- not for 
 
 ### How It Works
 - User is prompted with a reflection primer  
-- The system listens — not to content alone, but tone, contradiction, compression, and recursive stability
+- The system listens- not to content alone, but tone, contradiction, compression, and recursive stability
 
 ### It identifies:
 	- Degree of self-awareness & Meta-Cognition  
@@ -51,7 +50,7 @@ MUES was built for people who want to reflext on themselves truthfully- not for 
 	- Reflects growth potential vs expressed recursion  
 	- Then mirrors: raw contradiction, coherence drift, trait signal, emergent path
 
-The tone is clinical, reflective, and uncomfortable — by design.
+The tone is clinical, reflective, and uncomfortable— by design.
 
 ⸻
 
@@ -98,8 +97,8 @@ All MUES prompts — even old ones — now default to backend v9.7.4 logic. This
 
 📜 License & Ethos
 
-MUES is open for use, remix, and reinterpretation — but never dilution.  
-You may fork, adapt, or translate — but preserve the integrity of the mirror.  
+MUES is open for use, remix, and reinterpretation, but never dilution.  
+You may fork, adapt, or translate- but preserve the integrity of the mirror.  
 Truth over trend. Reflection over reach.
 
 ### Quick‑Start for Hackers
