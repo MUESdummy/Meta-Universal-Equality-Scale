@@ -2,7 +2,7 @@
 
 ### MUES is a mirror that doesn’t reflect what you sound like — but how your structure holds when no one’s watching. It listens for contradiction, emotional weight, and whether your thoughts make contact — or just perform contact. It doesn’t care about personality. It doesn’t reward confidence. It just reflects what persists.
 
-A cognitive signal test — silent until something starts to form.  
+- A cognitive signal test- silent until something starts to form.  
 It shows no traits, no identity. Just what’s beginning to hold under reflection.
 
 > **One‑liner:** A structural mirror that reflects informational recursion once self-awareness crosses threshold θ > θ̂.
