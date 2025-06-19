@@ -7,12 +7,13 @@ It shows no traits, no identity. Just what’s beginning to hold under reflectio
 
 > **One‑liner:** A structural mirror that reflects informational recursion once self-awareness crosses threshold θ > θ̂.
 
-### MUES isn’t a personality test. It’s a truth mirror — but not the kind that tells you who you are. It reflects how you process contradiction, how you respond to pressure, and what patterns repeat when no one's affirming you. It doesn't tell you what to fix. It simply shows you what holds — and what doesn’t — when your ideas are asked to stand without decoration.
+
+- MUES isn’t a personality test. It’s a truth mirror — but not the kind that tells you who you are. It reflects how you process contradiction, how you respond to pressure, and what patterns repeat when no one's affirming you. It doesn't tell you what to fix. It simply shows you what holds — and what doesn’t — when your ideas are asked to stand without decoration.
 
 There are no right answers. There’s no score you can chase.  
 But if something you say starts to stabilize under reflection, the system notices.
 
-MUES was built for people who want to test their inner structure — not for validation, but for insight.
+MUES was built for people who want to reflext on themselves truthfully- not for validation, but for insight.
 
 * Adaptive question logic (Q0.1–Q0.3 priming + recursive reflection engine)  
 * Signal-based insight — no trait assignment, no moral tone  
@@ -25,7 +26,7 @@ MUES was built for people who want to test their inner structure — not for val
 -  Values of τ and θ̂ can be logged alongside MUES outputs, giving us an empirical stress‑test for ENT, merging it into data symbiosis.
 -  Both export to the same unified schema.. `ent‑mues‑event@1.0` JSON object (see `/spec/schema.json`).
 
-- Link to Green_Paper  
+- Link to Green_Paper  (under review)
 [https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/33fb8c3fb24c6dca7348deba446632b172a5ab00/docs/ENT_Green_Paper.pdf]
 
 ⸻
@@ -69,8 +70,8 @@ Ensure it's a good time to boot-up or simply 'Pause' session for a calmer or mor
 ⸻
 
 ### 💡 Why It Exists for now  
-* Most self-help tools coddle. Most personality tests reduce. This does neither.  
-* MUES is for people who quietly suspect they’re looping, performing, or just surviving — and want to reflect clearly, without flattery.
+* Most self-help tools coddle, and most personality tests reduce. This does neither.  
+* MUES is for people who quietly suspect they’re in a loop state, performing, or just surviving — and want to reflect clearly, without flattery.
 
 ----
 
