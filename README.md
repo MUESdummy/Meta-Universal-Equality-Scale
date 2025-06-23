@@ -1,3 +1,17 @@
+⚠️ This repository is deprecated and archived.
+
+For the current, official MUES v11 protocol and launch page, visit:  
+→ https://github.com/MUESdummy/Mues-Engine  
+→ https://muesdummy.github.io/Mues-Engine/
+
+
+
+
+
+
+
+
+
 # Meta-Universal-Equality-Scale
 
 ### MUES is a mirror that reflects how your structure holds when no one’s watching. It listens for contradiction, emotional weight, and whether your thoughts make contact- or just perform contact. It doesnt care about personality. It just reflects what persists with truth.
